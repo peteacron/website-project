@@ -10,7 +10,9 @@
     background-color: #333;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
+    left: 0;
     width: 100%; /* Full width */
+    right: 0;
   }
   
   /* Links inside the navbar */
@@ -32,8 +34,8 @@
   
   /* Main content */
   .main {
-    margin-top: 30px; /* Add a top margin to avoid content overlay */
-  }
+   margin-top: 30px; /* Add a top margin to avoid content overlay */
+  } 
 
 h2{font-family: 'Raleway' ; color:red;
 font-size: 20px;}
